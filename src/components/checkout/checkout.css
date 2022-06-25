@@ -1,0 +1,32 @@
+.checkout {
+    display: flex;
+    margin: 0 20px;
+    padding: 0px 30px;
+    height: max-content;
+    /* justify-content: space-around; */
+}
+.checkout_left {
+    width: 74%;
+    background-color: #fff;
+}
+.checkout_ads {
+    width: 100%;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+h4 {
+    margin-left: 25px;
+    padding-top: 10px;
+    font-weight: normal;
+}
+.checkout_title {
+    margin-right: 15px;
+    margin-left: 15px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+.checkout_right {
+    /* padding-right: 20px; */
+    margin-left: 25px;
+    position: sticky;
+}
